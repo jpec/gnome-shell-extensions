@@ -5,4 +5,5 @@ GNOME Shell extensions
 
 - straighttopbar
 - transparenttopbar
+- gradienttopbar
 
