@@ -1,4 +1,4 @@
-/* © Julien Pecqueur <jpec@julienpecqueur.net> */
+/* Â© Julien Pecqueur <jpec@julienpecqueur.net> */
 
 const Main = imports.ui.main;
 
