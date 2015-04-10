@@ -4,7 +4,8 @@
   "name": "Transparent Top Bar", 
   "shell-version": [
     "3.12",
-    "3.14"
+    "3.14",
+    "3.16"
   ], 
   "url": "http://julienpecqueur.net", 
   "uuid": "transparenttopbar@julienpecqueur.net", 
