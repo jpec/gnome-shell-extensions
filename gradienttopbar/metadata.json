@@ -5,7 +5,8 @@
   "shell-version": [
     "3.12",
     "3.14",
-    "3.16"
+    "3.16",
+    "3.18"
   ], 
   "url": "http://julienpecqueur.net", 
   "uuid": "gradienttopbar@julienpecqueur.net", 
