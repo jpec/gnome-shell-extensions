@@ -6,7 +6,8 @@
     "3.12",
     "3.14",
     "3.16",
-    "3.18"
+    "3.18",
+	"3.20"
   ], 
   "url": "http://julienpecqueur.net", 
   "uuid": "transparenttopbar@julienpecqueur.net", 
