@@ -6,10 +6,11 @@
     "3.14",
     "3.16",
     "3.18",
-	  "3.20",
-	  "3.22"
+    "3.20",
+    "3.22",
+    "3.24"
   ],
-  "url": "http://julienpecqueur.net",
-  "uuid": "transparenttopbar@julienpecqueur.net",
+  "url": "https://peclu.net",
+  "uuid": "transparenttopbar@peclu.net",
   "version": 6
 }
